@@ -1,1 +1,2 @@
-
+- [bug](https://github.com/Jekker600/9/blob/main/9.1/Netology_workflow_bug.xml)
+- [default](https://github.com/Jekker600/9/blob/main/9.1/Netology_workflow_all.xml)
